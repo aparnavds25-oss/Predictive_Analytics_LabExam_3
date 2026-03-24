@@ -1,4 +1,4 @@
-# Predictive_Analytics_LabExam_3# 🌸 Aparna V – Personal Portfolio Website
+# Predictive_Analytics_LabExam_3#  Aparna V – Personal Portfolio Website
 
 This is my personal portfolio website created using **HTML and CSS**, and deployed using **GitHub Pages**.
 It showcases my profile, education, achievements, and interests in a clean and minimal lavender-themed design.
@@ -18,7 +18,7 @@ It showcases my profile, education, achievements, and interests in a clean and m
 This website is deployed using GitHub Pages.
 
 ## Live Website
-https://your-username.github.io/your-repository-name/
+https://github.com/aparnavds25-oss/Predictive_Analytics_LabExam_3/tree/main
 
 
 ## 📬 Contact
